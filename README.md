@@ -1,5 +1,11 @@
-# mv_fp_simulator
+# Multi Value Logic Based - Finger Print Unit
 Multi Valued - Floating Point unit Simulator. We have implemented a Multi valued Finger Print Simulator with the above mentioned unit and a screenshot of our implementation @ runtime is shown below.
+
+### Multiple-valued logic (MVL) 
+Possibility to represent the information with more than two discrete levels. Representing data in a MVL system is more effective than the binary based representation, because the number of interconnections can be significantly reduced. The real advantage of higher-radix arithmetic is fewer arithmetic operations. Especially in bulk signal processing units, they may bring in highly sophisticated but less complicated expressions.
+
+### Why Finger Print Application?
+Fingerprint identification is a popular biometric identification technology. It includes fingerprint verification and fingerprint recognition. Both of them have high computations based on complex formulas. They use minutiae, such as end points and bifurcation points, as features. To correctly extract minutiae from fingerprint images becomes an essential step in fingerprint identification. It involves lot of computation for all its operations, makes it an ideal candidate for Multi-valued logic application. 
 
 ## Finger Print Unit
 - Load Unit: Load FP details (Minutia array) for operation into one of the set of registers
